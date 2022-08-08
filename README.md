@@ -1,7 +1,7 @@
 <!--
  * @Author: Jimmy Hua
  * @Date: 2022-07-31 21:04:31
- * @LastEditTime: 2022-07-31 21:26:31
+ * @LastEditTime: 2022-08-09 00:12:38
  * @FilePath: /C++Primer/README.md
  * @Description:
  * Copyright (c) 2022 by Jimmy Hua, All Rights Reserved.
@@ -26,3 +26,5 @@
 ### 3. 学习目录
 
 - [第 1 章：开始](./chapter1/README.md)
+- 第 I 部分 : C++基础
+    - [第 2 章：变量和基本类型](./chapter2/README.md)
